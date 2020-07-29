@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starwars-react-api/static/css/main.589fc5e2.chunk.css",
+    "main.js": "/starwars-react-api/static/js/main.d26147ec.chunk.js",
+    "main.js.map": "/starwars-react-api/static/js/main.d26147ec.chunk.js.map",
+    "runtime-main.js": "/starwars-react-api/static/js/runtime-main.e01a809f.js",
+    "runtime-main.js.map": "/starwars-react-api/static/js/runtime-main.e01a809f.js.map",
+    "static/js/2.e242379b.chunk.js": "/starwars-react-api/static/js/2.e242379b.chunk.js",
+    "static/js/2.e242379b.chunk.js.map": "/starwars-react-api/static/js/2.e242379b.chunk.js.map",
+    "index.html": "/starwars-react-api/index.html",
+    "precache-manifest.2b6a12be30f6273af715a61add0cacc7.js": "/starwars-react-api/precache-manifest.2b6a12be30f6273af715a61add0cacc7.js",
+    "service-worker.js": "/starwars-react-api/service-worker.js",
+    "static/css/main.589fc5e2.chunk.css.map": "/starwars-react-api/static/css/main.589fc5e2.chunk.css.map",
+    "static/js/2.e242379b.chunk.js.LICENSE.txt": "/starwars-react-api/static/js/2.e242379b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e01a809f.js",
+    "static/js/2.e242379b.chunk.js",
+    "static/css/main.589fc5e2.chunk.css",
+    "static/js/main.d26147ec.chunk.js"
+  ]
+}
