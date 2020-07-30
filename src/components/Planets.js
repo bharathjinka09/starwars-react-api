@@ -20,7 +20,7 @@ const Planets = () => {
   });
 
   return (
-    <div>
+    <div style={{padding:'5%'}}>
       <h2>Planets</h2>
 
       {status === 'loading' && (

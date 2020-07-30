@@ -12,7 +12,7 @@ const People = () => {
   console.log(data);
 
   return (
-    <div>
+    <div style={{padding:'5%'}}>
       <h2>People</h2>
       {/* { status } */}
 
